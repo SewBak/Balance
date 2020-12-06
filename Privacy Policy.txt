@@ -1,0 +1,3 @@
+Balance does not collect information such as: passwords, location, contacts, etc.
+Balance does not save any information related to the game itself, such as the current level.
+It also does not need an internet connection
